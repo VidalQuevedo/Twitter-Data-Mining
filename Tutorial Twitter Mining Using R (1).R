@@ -10,7 +10,7 @@ library(twitteR);library(ROAuth);library(RCurl)
 # Set up a working directory
 setwd('/Users/YourWorkingDirectory')
 
- 
+ ##J Rocks!!!!
 
 #--- 2. Getting a curl certification
 
